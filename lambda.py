@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ##comments hahahahahha.........ooooo
+=======
+##comments hahahahahha
+>>>>>>> master
 
 square = lambda x : x*x;
 
